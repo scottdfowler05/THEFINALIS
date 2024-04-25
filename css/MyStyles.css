@@ -1,0 +1,27 @@
+h1{
+   font-size: 50px;
+   text-align: left;
+}
+.MainPage{
+text-align: center;
+}
+.LinkedIn{
+   text-align: right;
+}
+.Lists{
+   text-align: left;
+}
+body{
+   background-color: lightblue;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   text-decoration-color: black;
+   text-align: center;
+   border: 5px solid black;
+   margin: 50px;
+   padding: 100px
+}
+img{
+   width: 25%;
+   border-radius: 50cqi;
+
+}
